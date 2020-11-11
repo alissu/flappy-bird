@@ -1,3 +1,3 @@
 ## Repositório do flappy bird
 
-# Curso: Javascript moderno (Leonardo Moura Leitão)
+# Curso: Curso Web Moderno Completo com JavaScript 2020 (Leonardo Moura Leitão)
